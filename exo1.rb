@@ -70,3 +70,5 @@ if mot == inverse
 else 
     puts "#{mot} n'est pas un palindrome"
 end
+
+test
